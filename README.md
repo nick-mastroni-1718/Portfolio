@@ -1,4 +1,4 @@
-Hotel Project
+#Hotel Project-->
 Imported Excel files to SMSS
 SQL queries to union and join necessary data
 Imported SQL edited data to PowerBI
